@@ -1,3 +1,9 @@
 # chatbot-backend
-install node_modules with "npm install".
-Runs the app in development mode with "npm start".
+
+### `npm install`
+
+install node_modules with.
+
+### `npm start`
+
+Runs the app in development mode.
