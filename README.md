@@ -2,7 +2,7 @@
 
 ### `npm install`
 
-install node_modules with.
+install node_modules.
 
 ### `npm start`
 
